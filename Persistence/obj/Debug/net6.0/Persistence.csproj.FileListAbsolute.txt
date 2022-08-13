@@ -1,0 +1,15 @@
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/bin/Debug/net6.0/Persistence
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/bin/Debug/net6.0/Persistence.runtimeconfig.json
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/Persistence.genruntimeconfig.cache
+/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/Debug/net6.0/ref/Persistence.dll

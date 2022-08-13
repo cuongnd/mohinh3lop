@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mac/Documents/cuongnd/mohinh3lop/ConsolePL/ConsolePL.csproj": {}
+  },
+  "projects": {
+    "/Users/mac/Documents/cuongnd/mohinh3lop/BL/BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/cuongnd/mohinh3lop/BL/BL.csproj",
+        "projectName": "BL",
+        "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/BL/BL.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/cuongnd/mohinh3lop/BL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/DAL.csproj": {
+                "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/DAL.csproj"
+              },
+              "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Documents/cuongnd/mohinh3lop/ConsolePL/ConsolePL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/cuongnd/mohinh3lop/ConsolePL/ConsolePL.csproj",
+        "projectName": "ConsolePL",
+        "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/ConsolePL/ConsolePL.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/cuongnd/mohinh3lop/ConsolePL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mac/Documents/cuongnd/mohinh3lop/BL/BL.csproj": {
+                "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/BL/BL.csproj"
+              },
+              "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/DAL.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/cuongnd/mohinh3lop/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Documents/cuongnd/mohinh3lop/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+server=localhost;user id=root;password=cuongnd234;port=3306;database=OderDb;
